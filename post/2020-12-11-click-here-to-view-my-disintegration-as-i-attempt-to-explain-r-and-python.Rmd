@@ -10,12 +10,12 @@ description: ''
 
 
 
-Hello there and Welcome.
+Hello there.
 
-I am going to attempt to demonstrate the extend of my coding skills below. Prepare to be blown away. (Only if there's a monstrous wind blowing and you're sitting outside. If not, the threat is completely bogus and you can ignore it.)
+I'm going to attempt to demonstrate the extend of my coding skills below. Prepare to be blown away. (Only if there's a monstrous wind blowing and you're sitting outside. If not, the threat is completely bogus and you can ignore it.)
 
  
-Here we have a code chunk in R, a programming language, which is essentially a way to communicate with the computer(for my non-computer science friends out there-- I was you recently, or still am?)
+Here we have a code chunk in R, a programming language, which is essentially a way to communicate with the computer (for my non-computer science friends out there-- I was you recently, or still am?)
 
 I've created a vector that captures the main message of this blog.
 ```{r}
