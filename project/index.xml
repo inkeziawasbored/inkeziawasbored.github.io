@@ -5,11 +5,12 @@
     <link>/project/</link>
     <description>Recent content in Projects on Kezia Thomas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1</title>
       <link>/project/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/project/project1/</guid>
       <description>*Relations between the presidential elecction of 2016 and education and crime statistics in each state was analayzed. The dataset Election16 from Stat2Data records per capita income, percent of high school graduates, percent of college graduates and percent with advanced degrees in each state in addition to the whether the State leans toward the Democratic or Republican Party. This data was recorded by subtracting the percent of population that leans republican from the proprtion that leans toward the Democratic Party that was collected by a Gallup Poll in 2016.</description>
@@ -18,7 +19,7 @@
     <item>
       <title>Project 2</title>
       <link>/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/project/project2/</guid>
       <description>R Markdown library(tidyverse) library(sandwich) library(lmtest) library(plotROC) library(pROC) penguins &amp;lt;- read_csv(&amp;quot;penguins.csv&amp;quot;) The penguins dataset compares body features and islands occupied by different adult foraging penguin species near Palmer Station, Antarctica. Species variable has the 3 penguins being analyzed, Adelie, Gentoo and Chinstrap. Island variable records the island that each penguin lives in. Flipper length, bill length, bill depth are measured in millimeters and body mass is measured in g. The sex of each penguin is also recorded.</description>
