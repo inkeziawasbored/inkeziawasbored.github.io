@@ -8,8 +8,6 @@ tags: []
 description: ''
 ---
 
-
-
 Hello there.
 
 I'm going to attempt to demonstrate the extend of my coding skills below. Prepare to be blown away. (Only if there's a monstrous wind blowing and you're sitting outside. If not, the threat is completely bogus and you can ignore it.)
