@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kezia Thomas</title>
+    <link>/</link>
+    <description>Recent content on Kezia Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Click here to view my disintegration as I attempt to explain R and Python</title>
+      <link>/post/2020/12/11/click-here-to-view-my-disintegration-as-i-attempt-to-explain-r-and-python/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/11/click-here-to-view-my-disintegration-as-i-attempt-to-explain-r-and-python/</guid>
+      <description>Hello there and Welcome.
+I am going to attempt to demonstrate the extend of my coding skills below. Prepare to be blown away. (Only if there&#39;s a monstrous wind blowing and you&#39;re sitting outside. If not, the threat is completely bogus and you can ignore it.)
+Here we have a code chunk in R, a programming language, which is essentially a way to communicate with the computer(for my non-computer science friends out there-- I was you recently, or still am?</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015/07/23/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description>*Relations between the presidential elecction of 2016 and education and crime statistics in each state was analayzed. The dataset Election16 from Stat2Data records per capita income, percent of high school graduates, percent of college graduates and percent with advanced degrees in each state in addition to the whether the State leans toward the Democratic or Republican Party. This data was recorded by subtracting the percent of population that leans republican from the proprtion that leans toward the Democratic Party that was collected by a Gallup Poll in 2016.</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description>R Markdown library(tidyverse) library(sandwich) library(lmtest) library(plotROC) library(pROC) penguins &amp;lt;- read_csv(&amp;quot;penguins.csv&amp;quot;) The penguins dataset compares body features and islands occupied by different adult foraging penguin species near Palmer Station, Antarctica. Species variable has the 3 penguins being analyzed, Adelie, Gentoo and Chinstrap. Island variable records the island that each penguin lives in. Flipper length, bill length, bill depth are measured in millimeters and body mass is measured in g. The sex of each penguin is also recorded.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description> Check out some of my coding projects below:
+ Wrangling &amp;amp; Exploratory Data Analysis
+ Modeling, Inference, Prediction
+  -- </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>    </description>
+    </item>
+    
+  </channel>
+</rss>

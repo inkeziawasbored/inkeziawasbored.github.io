@@ -1,0 +1,50 @@
+---
+title: Click here to view my disintegration as I attempt to explain R and Python
+author: ''
+date: '2020-12-11'
+slug: click-here-to-view-my-disintegration-as-i-attempt-to-explain-r-and-python
+categories: []
+tags: []
+description: ''
+---
+
+
+
+Hello there and Welcome.
+
+I am going to attempt to demonstrate the extend of my coding skills below. Prepare to be blown away. (Only if there's a monstrous wind blowing and you're sitting outside. If not, the threat is completely bogus and you can ignore it.)
+
+ 
+Here we have a code chunk in R, a programming language, which is essentially a way to communicate with the computer(for my non-computer science friends out there-- I was you recently, or still am?)
+
+I've created a vector that captures the main message of this blog.
+```{r}
+#R code chunk
+library(reticulate)
+
+hello <- c("you", "really", "shouldn't", "have", "clicked.")
+```
+
+
+This is a code chunk in python, another programming language. 
+```{python}
+#Python code chunk
+r.hello
+```
+*Python prints the code inputted in R.*
+
+```{python}
+#Python code chunk
+however= ("Isn't this kinda marvelous?")
+```
+
+
+```{r}
+#R code chunk
+py$however
+```
+*R Prints the code in Python. Cool or what?*
+
+They are communicating with each other. By golly, how?
+
+There are smarter people than me that can explain it. I suggest you stop wasting your time and go find them.

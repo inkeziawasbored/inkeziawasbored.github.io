@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kezia Thomas</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Kezia Thomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Click here to view my disintegration as I attempt to explain R and Python</title>
+      <link>/post/2020/12/11/click-here-to-view-my-disintegration-as-i-attempt-to-explain-r-and-python/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/11/click-here-to-view-my-disintegration-as-i-attempt-to-explain-r-and-python/</guid>
+      <description>Hello there and Welcome.
+I am going to attempt to demonstrate the extend of my coding skills below. Prepare to be blown away. (Only if there&#39;s a monstrous wind blowing and you&#39;re sitting outside. If not, the threat is completely bogus and you can ignore it.)
+Here we have a code chunk in R, a programming language, which is essentially a way to communicate with the computer(for my non-computer science friends out there-- I was you recently, or still am?</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015/07/23/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
